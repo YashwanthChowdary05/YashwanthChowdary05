@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yashwanth Chowdary</h1>
-<h3 align="center">DevOps Engineer @ TechIEG | Data Analyst</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YashwanthChowdary05&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+<h3 align="center">DevOps Engineer @ TechIEG </h3>
 
 ---
 
