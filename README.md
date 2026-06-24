@@ -13,10 +13,10 @@
 - ⚙️ I build and automate **CI/CD pipelines, deployments, and infrastructure workflows**
 - 📊 Strong foundation in **data analysis** with Python, SQL, Power BI, and Excel
 - 🌱 Continuously sharpening my skills in **statistics, machine learning, and cloud DevOps**
-- 💬 Ask me about **DevOps automation, SQL queries, dashboards, Python scripting, and Machine Learning**
+- 💬 Ask me about **DevOps automation, SQL queries, dashboards, and Python scripting**
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/yashwanth-chowdary-75376a288)
 - 🧩 Solving challenges on [HackerRank](https://www.hackerrank.com/profile/bychowdary05)
-- 📍 Based in Hyderabad, India
+- 📍 Based in Bangalore, India
 
 ---
 
@@ -28,6 +28,7 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 **Monitoring**
@@ -40,10 +41,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-**Methodology**
-
-![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white)
 
 **Languages & Databases**
 
