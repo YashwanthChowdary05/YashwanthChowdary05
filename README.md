@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yashwanth Chowdary</h1>
-<h3 align="center">DevOps Engineer @ TechIEG </h3>
+<h3 align="center">Software Engineer-1 @ TechIEG </h3>
 
 ---
 
