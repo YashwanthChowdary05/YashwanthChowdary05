@@ -13,10 +13,10 @@
 - ⚙️ I build and automate **CI/CD pipelines, deployments, and infrastructure workflows**
 - 📊 Strong foundation in **data analysis** with Python, SQL, Power BI, and Excel
 - 🌱 Continuously sharpening my skills in **statistics, machine learning, and cloud DevOps**
-- 💬 Ask me about **DevOps automation, SQL queries, dashboards, and Python scripting**
+- 💬 Ask me about **DevOps automation, SQL queries, dashboards, Python scripting, and Machine Learning**
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/yashwanth-chowdary-75376a288)
 - 🧩 Solving challenges on [HackerRank](https://www.hackerrank.com/profile/bychowdary05)
-- 📍 Based in Bangalore, India
+- 📍 Based in Hyderabad, India
 
 ---
 
