@@ -12,7 +12,7 @@
 - 💬 Ask me about **DevOps automation, SQL queries, dashboards, and Python scripting**
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/yashwanth-chowdary-75376a288)
 - 🧩 Solving challenges on [HackerRank](https://www.hackerrank.com/profile/bychowdary05)
-- 📍 Based in Bangalore, India
+- 📍 Based in Hyderabad, India
 
 ---
 
