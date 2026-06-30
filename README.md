@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Yashwanth Chowdary</h1>
 <h3 align="center">Software Engineer-1 @ TechIEG · DevOps & Data</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YashwanthChowdary05&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
 ---
 
 ### 👨‍💻 About Me
@@ -11,6 +15,7 @@ I'm a Software Engineer-1 at **TechIEG**, working primarily across DevOps and da
 - 📊 I analyze and visualize data with **Python, SQL, Power BI, and Excel**
 - 🌱 Currently sharpening **statistics, machine learning, and cloud DevOps**
 - 💬 Ask me about **DevOps automation, SQL, dashboards, and Python scripting**
+- 📫 Reach me at **bychowdary05@gmail.com**
 - 📍 Based in **Hyderabad, India**
 
 ---
@@ -74,5 +79,8 @@ I'm a Software Engineer-1 at **TechIEG**, working primarily across DevOps and da
   </a>
   <a href="https://www.hackerrank.com/profile/bychowdary05" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
+  <a href="mailto:bychowdary05@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
