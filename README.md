@@ -56,8 +56,8 @@ I'm a Software Engineer-1 at **TechIEG**, working primarily across DevOps and da
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YashwanthChowdary05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashwanthChowdary05&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=YashwanthChowdary05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YashwanthChowdary05&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
