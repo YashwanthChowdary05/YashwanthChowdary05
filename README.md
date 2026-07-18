@@ -61,9 +61,6 @@ I'm a Software Engineer-1 at **TechIEG**, working primarily across DevOps and da
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YashwanthChowdary05&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YashwanthChowdary05&theme=tokyonight" alt="GitHub Streak" />
-</p>
 
 ---
 
